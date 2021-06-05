@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Gabriel Gustavo a Software Developer! 
 
-# I'm passionate about technologys, I've some projects in data area but currently working with React, React Native and Electron on Embraer.
+ I'm passionate about technologys, I've some projects in data area but currently working with React, React Native and Electron on Embraer.
 
 ### 📫 Get in touch
 
-- Email: [mail](mailto:rodriguesgg36@gmail.com )
+- Email: rodriguesgg36@gmail.com
 <a target="_blank" href="https://www.linkedin.com/in/gabriel-gustavo-santos/">
 <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gustavo-santos/" alt="Linkedin Badge"></a>
 
