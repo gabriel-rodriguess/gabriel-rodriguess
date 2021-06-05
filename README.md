@@ -16,12 +16,10 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&theme=dracula&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&hide=shell&theme=dracula&line_height=18">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&theme=dracula&line_height=30">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&hide=shell&theme=dracula&line_height=15">
 
 </p>
-
----
 
 <!--
 **gabriel-rodriguess/gabriel-rodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
