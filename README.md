@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Gabriel Gustavo a Software Developer! 
 
- I'm passionate about technologys, I've some projects in data area but currently working with React, React Native and Electron on Embraer.
+ I'm passionate about technologies, I've some projects in data area but currently working with React, React Native and Electron at Embraer.
 
 ### 📫 Get in touch
 
