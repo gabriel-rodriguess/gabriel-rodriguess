@@ -16,8 +16,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&theme=dracula&line_height=30">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&hide=shell&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&line_height=38">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&line_height=10&layout=compact">
 
 </p>
 
