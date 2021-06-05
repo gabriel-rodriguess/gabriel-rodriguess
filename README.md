@@ -16,8 +16,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&line_height=24&hide=issues">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&line_height=20&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&line_height=24&hide=issues&theme=Gradient">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&line_height=20&layout=compact&theme=Gradient">
 
 </p>
 
