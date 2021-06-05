@@ -10,16 +10,18 @@
 <a target="_blank" href="mailto:rodriguesgg36@gmail.com">
 <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rodriguesgg36@gmail.com" alt="Gmail Badge"></a>
 
+---
 
 **Github Stats:**
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodriguess&show_icons=true&theme=dracula&line_height=20">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodriguess&count_private=true&hide=shell&theme=dracula&line_height=20">
 
 </p>
 
+---
 
 <!--
 **gabriel-rodriguess/gabriel-rodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
